@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [ventoy-1.1.12-livecd](./ventoy-1.1.12-livecd)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
