@@ -1,5 +1,5 @@
 ---
-name: 💯 05- Download (more than 4 GB files)
+name: 💯 02- Download (more than 4 GB files)
 
 on:
   workflow_dispatch:
