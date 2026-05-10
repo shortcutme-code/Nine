@@ -73,7 +73,7 @@ jobs:
           echo "Created downloads/README.md"
 
           # Stage the new README file
-          git add downloads/README.md
+          git add -f downloads/README.md
 
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -120,7 +120,7 @@ jobs:
                 echo ""
                 echo "*This tool created by [avasam.ir](https://avasam.ir)*"
               } > downloads/README.md
-              git add -A downloads/
+              git add -f -A downloads/
               git commit -m "[AVASAM] Clean downloads folder [skip ci]" 2>/dev/null || true
             }
 
