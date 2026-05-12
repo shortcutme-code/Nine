@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [cyberrealisticZit.yAfa](./cyberrealisticZit.yAfa)
 - [shape_dec_next_dc_f16c32_fp16](./shape_dec_next_dc_f16c32_fp16)
 - [shape_dec_next_dc_f16c32_fp16_lambda_22199](./shape_dec_next_dc_f16c32_fp16_lambda_22199)
 - [shape_enc_next_dc_f16c32_fp16](./shape_enc_next_dc_f16c32_fp16)
